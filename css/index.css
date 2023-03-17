@@ -1,0 +1,18 @@
+*{
+    margin: 0px;
+}
+.section1{
+    background-color: black;
+    padding-left: 10%;
+    padding-right: 10%;
+    color: white;
+    height: 60vh;
+    padding-top: 50px;
+}
+h1{
+    text-align: center;
+    color: #050607;
+}
+#grade-output{
+    color: red
+}
